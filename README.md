@@ -1,1 +1,1 @@
-A 2 player pong game
+A 2 player pong game.
